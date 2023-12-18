@@ -1,1 +1,1 @@
-Kullanıcıdan taban ve üs değerlerini alıp üs alma işlemini "Recursive" metot kullanarak yapan kodlama
+Kullanıcıdan alınan sayının, Recursive" metot kullanarak, Asal sayı olup olmadığını bulan kodlama
